@@ -7,7 +7,7 @@
 
 - 🎮 My games are available at [https://multipixels.itch.io/](https://multipixels.itch.io/)
 
-- 📫 Contact me! **richard.motorgeanu@gmail.com**
+- 📫 Contact me! **motorger@mcmaster.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
