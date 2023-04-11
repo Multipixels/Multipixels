@@ -1,7 +1,7 @@
 <h1 align="center">Heya 👋, I'm Richard Motorgeanu</h1>
 <h3 align="center">A Computer Science student at McMaster University</h3>
 
-- 🔭 I’m currently working on [Keep Talking and Nobody Explodes Bot](https://github.com/Multipixels/Keep-Talking-and-Nobody-Explodes-Bot)
+- 🔭 I’m currently working on [Mactivision Minigames](https://github.com/Multipixels/Mactivision)
 
 - ❤ I have a passion for **Game and Software Development**
 
