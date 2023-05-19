@@ -1,7 +1,7 @@
 <h1 align="center">Heya 👋, I'm Richard Motorgeanu</h1>
 <h3 align="center">A Computer Science student at McMaster University</h3>
 
-- 🔭 I’m currently working on [Mactivision Minigames](https://github.com/Multipixels/Mactivision)
+- 🔭 I’m currently working on [my Personal Website](https://github.com/Multipixels/Mactivision](https://github.com/Multipixels/personal-site)
 
 - ❤ I have a passion for **Game and Software Development**
 
