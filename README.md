@@ -1,11 +1,11 @@
 <h1 align="center">Heya 👋, I'm Richard Motorgeanu</h1>
 <h3 align="center">A Computer Science student at McMaster University</h3>
 
-- 🔭 I’m currently working on [Lotus](https://github.com/Multipixels/lotus-lang)
-
+- 🔭 I’m currently working on the [Lotus Programming Language](https://github.com/Multipixels/lotus-lang), a GameBoy emulator, and an untitled game engine.
+  
 - ❤ I have a passion for **Game Development, Software Development, and Software Design**
 
-- 🎮 My games are available on [https://multipixels.dev/](https://multipixels.dev/)
+- 🎮 My games and projects are available on [https://multipixels.dev/](https://multipixels.dev/)
 
 - 📫 Contact me! **motorger@mcmaster.ca**
 
